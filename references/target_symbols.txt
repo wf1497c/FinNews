@@ -1,0 +1,280 @@
+AAL,American Airlines Group Inc. 
+AAPL,Apple Inc. 
+ABEV,Ambev S.A. American Depositary Shares (Each representing 1 Common Share)
+ADM,Archer-Daniels-Midland Company 
+AEO,American Eagle Outfitters Inc. 
+AES,The AES Corporation 
+AFRM,Affirm Holdings Inc. Class A 
+AG,First Majestic Silver Corp. Ordinary Shares (Canada)
+AGNC,AGNC Investment Corp. 
+ALLY,Ally Financial Inc. 
+AM,Antero Midstream Corporation 
+AMC,AMC Entertainment Holdings Inc. Class A 
+AMCR,Amcor plc Ordinary Shares
+AMD,Advanced Micro Devices Inc. 
+AMZN,Amazon.com Inc. 
+APA,APA Corporation 
+APE,AMC Entertainment Holdings Inc. AMC Preferred Equity Units each constituting a depositary share representing a 1/100th interest in a share of Series A Convertible Participating Preferred Stock
+AQN,Algonquin Power & Utilities Corp. Common Shares
+AR,Antero Resources Corporation 
+ASX,ASE Technology Holding Co. Ltd. American Depositary Shares (each representing Two Common Shares) 
+AUY,Yamana Gold Inc. Ordinary Shares (Canada)
+AVTR,Avantor Inc. 
+AZN,AstraZeneca PLC American Depositary Shares
+BA,Boeing Company (The) 
+BABA,Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share
+BAC,Bank of America Corporation 
+BB,BlackBerry Limited 
+BBD,Banco Bradesco Sa American Depositary Shares
+BEKE,KE Holdings Inc American Depositary Shares (each representing three Class A Ordinary Shares)
+BILI,Bilibili Inc. American Depositary Shares
+BKR,Baker Hughes Company Class A 
+BMY,Bristol-Myers Squibb Company 
+BP,BP p.l.c. 
+BSX,Boston Scientific Corporation 
+BTG,B2Gold Corp Common shares (Canada)
+BTU,Peabody Energy Corporation  
+C,Citigroup Inc. 
+CAG,ConAgra Brands Inc. 
+CCL,Carnival Corporation 
+CHPT,ChargePoint Holdings Inc. 
+CLF,Cleveland-Cliffs Inc. 
+CLVT,Clarivate Plc Ordinary Shares
+CMCSA,Comcast Corporation Class A 
+CNC,Centene Corporation 
+COIN,Coinbase Global Inc. Class A 
+COTY,Coty Inc. Class A 
+COUP,Coupa Software Incorporated 
+CPNG,Coupang Inc. Class A 
+CRM,Salesforce Inc. 
+CRWD,CrowdStrike Holdings Inc. Class A 
+CS,Credit Suisse Group American Depositary Shares
+CSCO,Cisco Systems Inc.  (DE)
+CSX,CSX Corporation 
+CTRA,Coterra Energy Inc. 
+CVS,CVS Health Corporation 
+CVX,Chevron Corporation 
+D,Dominion Energy Inc. 
+DADA,Dada Nexus Limited American Depositary Shares
+DAL,Delta Air Lines Inc. 
+DDOG,Datadog Inc. Class A 
+DIS,Walt Disney Company (The) 
+DKNG,DraftKings Inc. Class A 
+DNA,Ginkgo Bioworks Holdings Inc. Class A 
+DVN,Devon Energy Corporation 
+ELAN,Elanco Animal Health Incorporated 
+EQNR,Equinor ASA
+EQT,EQT Corporation 
+ERIC,Ericsson American Depositary Shares
+ET,Energy Transfer LP Common Units 
+EXC,Exelon Corporation 
+F,Ford Motor Company 
+FCX,Freeport-McMoRan Inc. 
+FLEX,Flex Ltd. Ordinary Shares
+FRO,Frontline Ltd. Ordinary Shares
+FTNT,Fortinet Inc. 
+FUTU,Futu Holdings Limited American Depositary Shares
+GE,General Electric Company 
+GGB,Gerdau S.A. 
+GILD,Gilead Sciences Inc. 
+GLW,Corning Incorporated 
+GM,General Motors Company 
+GME,GameStop Corporation 
+GOLD,Barrick Gold Corporation  (BC)
+GOOG,Alphabet Inc. Class C Capital Stock
+GOOGL,Alphabet Inc. Class A 
+GPS,Gap Inc. (The) 
+GRAB,Grab Holdings Limited Class A Ordinary Shares
+HAL,Halliburton Company 
+HAYW,Hayward Holdings Inc. 
+HBAN,Huntington Bancshares Incorporated 
+HBI,Hanesbrands Inc. 
+HKD,AMTD Digital Inc. American Depositary Shares (every five of which represent two Class A Ordinary Shares)
+HL,Hecla Mining Company 
+HPE,Hewlett Packard Enterprise Company 
+HST,Host Hotels & Resorts Inc. 
+HZNP,Horizon Therapeutics Public Limited Company Ordinary Shares
+IBN,ICICI Bank Limited 
+INFY,Infosys Limited American Depositary Shares
+INTC,Intel Corporation 
+INVH,Invitation Homes Inc. 
+IQ,iQIYI Inc. American Depositary Shares
+ITUB,Itau Unibanco Banco Holding SA American Depositary Shares (Each repstg 500 Preferred shares)
+JBLU,JetBlue Airways Corporation 
+JD,JD.com Inc. American Depositary Shares
+JPM,JP Morgan Chase & Co. 
+KDP,Keurig Dr Pepper Inc. 
+KEY,KeyCorp 
+KGC,Kinross Gold Corporation 
+KHC,The Kraft Heinz Company 
+KMI,Kinder Morgan Inc. 
+KO,Coca-Cola Company (The) 
+LCID,Lucid Group Inc. 
+LI,Li Auto Inc. American Depositary Shares
+LU,Lufax Holding Ltd American Depositary Shares two of which representing one Ordinary Share
+LUMN,Lumen Technologies Inc. 
+LUV,Southwest Airlines Company 
+LVS,Las Vegas Sands Corp. 
+LW,Lamb Weston Holdings Inc.  
+LYFT,Lyft Inc. Class A 
+LYG,Lloyds Banking Group Plc American Depositary Shares
+M,Macy's Inc 
+MAT,Mattel Inc. 
+MDLZ,Mondelez International Inc. Class A 
+MDT,Medtronic plc. Ordinary Shares
+META,Meta Platforms Inc. Class A 
+MGM,MGM Resorts International 
+MLCO,Melco Resorts & Entertainment Limited American Depositary Shares
+MO,Altria Group Inc.
+MOS,Mosaic Company (The) 
+MPC,Marathon Petroleum Corporation 
+MPW,Medical Properties Trust Inc. common stock
+MRK,Merck & Company Inc.  (new)
+MRNA,Moderna Inc. 
+MRO,Marathon Oil Corporation 
+MRVL,Marvell Technology Inc. 
+MS,Morgan Stanley 
+MSFT,Microsoft Corporation 
+MT,Arcelor Mittal NY Registry Shares NEW
+MTCH,Match Group Inc. 
+MU,Micron Technology Inc. 
+MUFG,Mitsubishi UFJ Financial Group Inc. 
+NCLH,Norwegian Cruise Line Holdings Ltd. Ordinary Shares
+NEE,NextEra Energy Inc. 
+NEM,Newmont Corporation
+NEOG,Neogen Corporation 
+NET,Cloudflare Inc. Class A 
+NFLX,Netflix Inc. 
+NIO,NIO Inc. American depositary shares each  representing one Class A ordinary share
+NKE,Nike Inc. 
+NLY,Annaly Capital Management Inc. 
+NOK,Nokia Corporation Sponsored American Depositary Shares
+NU,Nu Holdings Ltd. Class A Ordinary Shares
+NVCR,NovoCure Limited Ordinary Shares
+NVDA,NVIDIA Corporation 
+NYCB,New York Community Bancorp Inc. 
+O,Realty Income Corporation 
+OI,O-I Glass Inc. 
+ON,ON Semiconductor Corporation 
+ORCL,Oracle Corporation 
+OXY,Occidental Petroleum Corporation 
+PAA,Plains All American Pipeline L.P. Common Units representing Limited Partner Interests
+PAAS,Pan American Silver Corp. 
+PANW,Palo Alto Networks Inc. 
+PARA,Paramount Global Class B 
+PATH,UiPath Inc. Class A 
+PBR,Petroleo Brasileiro S.A.- Petrobras 
+PCG,Pacific Gas & Electric Co. 
+PDD,Pinduoduo Inc. American Depositary Shares
+PEP,PepsiCo Inc. 
+PFE,Pfizer Inc. 
+PG,Procter & Gamble Company (The) 
+PINS,Pinterest Inc. Class A 
+PK,Park Hotels & Resorts Inc.  
+PLD,Prologis Inc. 
+PLTR,Palantir Technologies Inc. Class A 
+PLUG,Plug Power Inc. 
+PM,Philip Morris International Inc 
+PPL,PPL Corporation 
+PR,Permian Resources Corporation Class A 
+PSTG,Pure Storage Inc. Class A 
+PSX,Phillips 66 
+PTON,Peloton Interactive Inc. Class A 
+PYPL,PayPal Holdings Inc. 
+QCOM,QUALCOMM Incorporated 
+QS,QuantumScape Corporation Class A 
+RBLX,Roblox Corporation Class A 
+RCL,D/B/A Royal Caribbean Cruises Ltd. 
+RCM,R1 RCM Inc. 
+RF,Regions Financial Corporation 
+RIG,Transocean Ltd (Switzerland) 
+RIVN,Rivian Automotive Inc. Class A 
+RLX,RLX Technology Inc. American Depositary Shares each representing the right to receive one (1) Class A ordinary share
+ROIV,Roivant Sciences Ltd. Common Shares
+ROKU,Roku Inc. Class A 
+RRC,Range Resources Corporation 
+RTX,Raytheon Technologies Corporation 
+RUN,Sunrun Inc. 
+S,SentinelOne Inc. Class A 
+SAN,Banco Santander S.A. Sponsored ADR (Spain)
+SBUX,Starbucks Corporation 
+SCHW,Charles Schwab Corporation (The) 
+SHEL,Royal Dutch Shell PLC American Depositary Shares (each representing two (2) Ordinary Shares) 
+SHOP,Shopify Inc. Class A Subordinate Voting Shares
+SID,Companhia Siderurgica Nacional S.A. 
+SIRI,Sirius XM Holdings Inc. 
+SLB,Schlumberger N.V. 
+SMFG,Sumitomo Mitsui Financial Group Inc Unsponsored American Depositary Shares (Japan)
+SNAP,Snap Inc. Class A 
+SNOW,Snowflake Inc. Class A 
+SO,Southern Company (The) 
+SOFI,SoFi Technologies Inc.   
+SPR,Spirit Aerosystems Holdings Inc. 
+SPWR,SunPower Corporation 
+SQ,Block Inc. Class A 
+STLA,Stellantis N.V. Common Shares
+STM,STMicroelectronics N.V. 
+STNE,StoneCo Ltd. Class A Common Shares
+STOR,STORE Capital Corporation 
+STWD,STARWOOD PROPERTY TRUST INC. Starwood Property Trust Inc.
+STZ,Constellation Brands Inc. 
+SU,Suncor Energy  Inc. 
+SWN,Southwestern Energy Company 
+SYF,Synchrony Financial 
+T,AT&T Inc.
+TAK,Takeda Pharmaceutical Company Limited American Depositary Shares (each representing 1/2 of a share of )
+TAL,TAL Education Group American Depositary Shares
+TCOM,Trip.com Group Limited American Depositary Shares
+TD,Toronto Dominion Bank (The) 
+TDOC,Teladoc Health Inc. 
+TECK,Teck Resources Ltd Ordinary Shares
+TEVA,Teva Pharmaceutical Industries Limited American Depositary Shares
+TFC,Truist Financial Corporation 
+TGT,Target Corporation 
+TJX,TJX Companies Inc. (The) 
+TME,Tencent Music Entertainment Group American Depositary Shares each representing two Class A Ordinary Shares
+TMUS,T-Mobile US Inc. 
+TOST,Toast Inc. Class A 
+TPR,Tapestry Inc. 
+TSLA,Tesla Inc. 
+TSM,Taiwan Semiconductor Manufacturing Company Ltd.
+TTD,The Trade Desk Inc. Class A 
+TV,Grupo Televisa S.A. 
+TWLO,Twilio Inc. Class A 
+TXN,Texas Instruments Incorporated 
+U,Unity Software Inc. 
+UAA,Under Armour Inc. Class A 
+UAL,United Airlines Holdings Inc. 
+UBER,Uber Technologies Inc. 
+UMC,United Microelectronics Corporation (NEW) 
+UNH,UnitedHealth Group Incorporated  (DE)
+USB,U.S. Bancorp 
+USFD,US Foods Holding Corp. 
+V,Visa Inc.
+VALE,VALE S.A.  American Depositary Shares Each Representing one common share
+VFC,V.F. Corporation 
+VICI,VICI Properties Inc. 
+VIPS,Vipshop Holdings Limited American Depositary Shares each representing two ordinary shares
+VLO,Valero Energy Corporation 
+VNO,Vornado Realty Trust 
+VOD,Vodafone Group Plc American Depositary Shares
+VSCO,Victorias Secret & Co.  
+VTRS,Viatris Inc. 
+VZ,Verizon Communications Inc. 
+WBA,Walgreens Boots Alliance Inc. 
+WBD,Warner Bros. Discovery Inc. Series A  
+WDAY,Workday Inc. Class A 
+WDC,Western Digital Corporation 
+WFC,Wells Fargo & Company 
+WMB,Williams Companies Inc. (The) 
+WMT,Walmart Inc. 
+WU,Western Union Company (The) 
+X,United States Steel Corporation 
+XOM,Exxon Mobil Corporation 
+XPEV,XPeng Inc. American depositary shares each representing two Class A ordinary shares
+YMM,Full Truck Alliance Co. Ltd. American Depositary Shares (each representing 20 Class A Ordinary Shares)
+Z,Zillow Group Inc. Class C Capital Stock
+ZI,ZoomInfo Technologies Inc 
+ZIM,ZIM Integrated Shipping Services Ltd. Ordinary Shares
+ZLAB,Zai Lab Limited American Depositary Shares
+ZS,Zscaler Inc. 
